@@ -1,4 +1,4 @@
-# ♻️ KlemaPortfolio - Template mé stránky (v0.1)
+# ♻️ KlemaPortfolio - Template mé stránky (v0.2)
 Dovolil jsem si po dlouhé době udělat open source projekt, který si můžete zdarma stáhnout, upravit dle svého a spustit u sebe na stroji!
 Jelikož kód webovky není optimalizovaný pro všechny, je z toho velký bordel (hlavně v CSS) a někteří nemusí úplně chápat mé myšlenkové pochody.
 
