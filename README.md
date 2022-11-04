@@ -16,9 +16,9 @@ Snad se vám stránka bude líbit a uvidím zde hodně forků, hvězdiček a pul
 
 # 🔎 Co mi zbývá dodělat
 - [X] Uploadovat prvnotní kód na GitHub
-- [ ] Opravit nedokonalosti
-- [ ] Předělat celý CSS soubor pro lepší orientaci a rychlejší přepsání stránky dle vlastního gusta
-- [ ] Prokomentovat celý JS soubor (pro ty, co moc neumí JS)
+- [X] Opravit nedokonalosti
+- [X] Předělat celý CSS soubor pro lepší orientaci a rychlejší přepsání stránky dle vlastního gusta
+- [X] Prokomentovat celý JS soubor (pro ty, co moc neumí JS)
 - [ ] Smazat a nahradit fotky ze složky content
 - [ ] Předělat embed na hlavní stránce a linktree + errory
 
