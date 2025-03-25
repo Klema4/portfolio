@@ -1,8 +1,11 @@
+> [!IMPORTANT]  
+> Tento repozitář je nyní archivován a nebude již aktualizován. Obsah a kód můžete nadále využívat ale již neručím za jeho kvalitu.
+
 # ♻️ KlemaPortfolio - Template mé stránky (v0.2)
 Dovolil jsem si po dlouhé době udělat open source projekt, který si můžete zdarma stáhnout, upravit dle svého a spustit u sebe na stroji!
 Jelikož kód webovky není optimalizovaný pro všechny, je z toho velký bordel (hlavně v CSS) a někteří nemusí úplně chápat mé myšlenkové pochody.
 
-Pokud chcete poradit nebo pomoci upravit mou stránku pro vás, stačí mě kontaktovat na Discordu (Kléma#2152) a jsem ochotný pomoci. :)
+Pokud chcete poradit nebo pomoci upravit mou stránku pro vás, stačí mě kontaktovat na Discordu (@klema) a jsem ochotný pomoci. :)
 Snad se vám stránka bude líbit a uvidím zde hodně forků, hvězdiček a pull requestů nebo issues :D
 
 # 🔧 Co source code obsahuje
